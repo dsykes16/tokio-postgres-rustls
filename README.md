@@ -1,3 +1,6 @@
+# Archived
+The improvements made on this fork were transferred to `khorsolutions` for ongoing maintenance and ownership; please see: https://github.com/khorsolutions/tokio-postgres-rustls-improved/
+
 # tokio-postgres-rustls
 [![codecov](https://codecov.io/github/dsykes16/tokio-postgres-rustls/graph/badge.svg?token=PKUZQ62OP8)](https://codecov.io/github/dsykes16/tokio-postgres-rustls)
 [![tests](https://github.com/dsykes16/tokio-postgres-rustls/actions/workflows/rust.yml/badge.svg)](https://github.com/dsykes16/tokio-postgres-rustls/actions/workflows/rust.yml)
